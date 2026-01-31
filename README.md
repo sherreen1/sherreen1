@@ -1,12 +1,16 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Shereen</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-</p>
+<h1 align="center">
+  Hi there, I'm Shereen 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" />
+</h1>
 
 <br />
-**Full-Stack .NET Developer | Software Engineering Student**
+
+<p align="center">
+<strong>Full-Stack .NET Developer | Software Engineering Student</strong>
+</p>
 
 I'm a Software Engineering student at **Sohag University** with hands-on experience in **Full-Stack .NET development**.  
-I enjoy building **responsive, user-friendly web applications** and continuously improving my skills through real-world projects.
+I enjoy building **responsive, user-friendly web applications** and improving my skills through real-world projects.
 
 ---
 
@@ -14,7 +18,7 @@ I enjoy building **responsive, user-friendly web applications** and continuously
 
 - 🎓 Software Engineering student at **Sohag University**
 - 💻 Full-Stack .NET Developer
-- 🌐 🌐 Passionate about web and backend development
+- 🌐 Passionate about web and backend development
 - 📚 Always learning and improving through practice
 
 ---
@@ -40,9 +44,9 @@ I enjoy building **responsive, user-friendly web applications** and continuously
 
 ### 📫 Connect With Me
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/sherien-ayed-8a661a31b](https://www.linkedin.com/in/sherien-ayed-8a661a31b)
-- 🐙 **GitHub:** [https://github.com/sherienayed12345](https://github.com/sherreen1)
-- 📧 **Email:** sherienayed12345@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sherien-ayed-8a661a31b  
+- 🐙 **GitHub:** https://github.com/sherreen1  
+- 📧 **Email:** sherienayed12345@gmail.com  
 
 ---
 

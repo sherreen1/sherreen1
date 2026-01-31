@@ -30,17 +30,12 @@ I'm currently **open to remote full-stack opportunities**, where I can contribut
 <code><img height="30" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
-
 <code><img height="30" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="30" alt=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></code>
 <code><img height="30" alt="ASP.NET MVC" src="https://img.icons8.com/color/48/asp.png"></code>
 <code><img height="30" alt="Entity Framework" src="https://img.icons8.com/color/48/database.png"></code>
 <code><img height="30" alt="LINQ" src="https://img.icons8.com/color/48/code.png"></code>
-<code><img height="30" alt="SignalR" src="https://img.icons8.com/color/48/signalr.png"></code>
 <code><img height="30" alt="REST API" src="https://img.icons8.com/color/48/api.png"></code>
-
-<code><img height="30" alt="SQL Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
-
 <code><img height="30" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="30" alt="OOP" src="https://img.icons8.com/color/48/class.png"></code>
 <code><img height="30" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>

@@ -25,14 +25,27 @@ I'm currently **open to remote full-stack opportunities**, where I can contribut
 ---
 
 ### 🛠 Tech Stack
-<br />
-<code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="Angular" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
-<code><img height="20" alt="C#" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="20" alt=".NET" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
-<code><img height="20" alt="SQL Server" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+
+<code><img height="30" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="30" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
+
+<code><img height="30" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="30" alt=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></code>
+<code><img height="30" alt="ASP.NET MVC" src="https://img.icons8.com/color/48/asp.png"></code>
+<code><img height="30" alt="Entity Framework" src="https://img.icons8.com/color/48/database.png"></code>
+<code><img height="30" alt="LINQ" src="https://img.icons8.com/color/48/code.png"></code>
+<code><img height="30" alt="SignalR" src="https://img.icons8.com/color/48/signalr.png"></code>
+<code><img height="30" alt="REST API" src="https://img.icons8.com/color/48/api.png"></code>
+
+<code><img height="30" alt="SQL Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
+
+<code><img height="30" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="30" alt="OOP" src="https://img.icons8.com/color/48/class.png"></code>
+<code><img height="30" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="30" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+
 
 ---
 

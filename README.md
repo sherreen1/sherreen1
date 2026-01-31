@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Shereen Aayed" src="./assets/gh-readme-header.png" />
+ <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196f3,100:21cbf3&height=200&section=header&text=Shereen%20Aayed&fontSize=40&fontColor=ffffff" />
 </p>
 
 <br />
@@ -25,36 +25,21 @@ I'm currently **open to remote full-stack opportunities**, where I can contribut
 ---
 
 ### 🛠 Tech Stack
-
-**Frontend**
 <br />
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="Angular" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
-
-**Backend**
-<br />
 <code><img height="20" alt="C#" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="20" alt=".NET" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
-
-**Database**
-<br />
 <code><img height="20" alt="SQL Server" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-
----
-
-### 📊 GitHub Stats
-
-| <a href="https://github.com/sherienayed12345"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sherienayed12345&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/sherienayed12345"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherienayed12345&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 ---
 
 ### 📫 Connect With Me
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/sherien-ayed-8a661a31b](https://www.linkedin.com/in/sherien-ayed-8a661a31b)
-- 🐙 **GitHub:** [https://github.com/sherienayed12345](https://github.com/sherienayed12345)
+- 🐙 **GitHub:** [https://github.com/sherienayed12345](https://github.com/sherreen1)
 - 📧 **Email:** sherienayed12345@gmail.com
 
 ---

@@ -1,16 +1,12 @@
-<p align="center">
- <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196f3,100:21cbf3&height=200&section=header&text=Shereen%20Aayed&fontSize=40&fontColor=ffffff" />
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Shereen</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 </p>
 
 <br />
-
-## 👋 Hi, I'm Shereen Aayed  
 **Full-Stack .NET Developer | Software Engineering Student**
 
 I'm a Software Engineering student at **Sohag University** with hands-on experience in **Full-Stack .NET development**.  
 I enjoy building **responsive, user-friendly web applications** and continuously improving my skills through real-world projects.
-
-I'm currently **open to remote full-stack opportunities**, where I can contribute, learn from industry experience, and grow professionally 🚀
 
 ---
 
@@ -18,9 +14,8 @@ I'm currently **open to remote full-stack opportunities**, where I can contribut
 
 - 🎓 Software Engineering student at **Sohag University**
 - 💻 Full-Stack .NET Developer
-- 🌐 Passionate about clean UI & scalable backend systems
+- 🌐 🌐 Passionate about web and backend development
 - 📚 Always learning and improving through practice
-- 🌍 Open to **remote work opportunities**
 
 ---
 
@@ -40,7 +35,6 @@ I'm currently **open to remote full-stack opportunities**, where I can contribut
 <code><img height="30" alt="OOP" src="https://img.icons8.com/color/48/class.png"></code>
 <code><img height="30" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="30" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-
 
 ---
 
